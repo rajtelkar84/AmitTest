@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;features&apos; to &apos;resources&apos;&#x0D;&#x0A;- Original project: &apos;CucumberTutorial&apos;&#x0D;&#x0A;- Destination element: &apos;resources&apos;&#x0D;&#x0A;- Original element: &apos;CucumberTutorial/src/features&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" element1="/src&lt;features" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1538556091961" target="resources" version="1.0"/>
+</session>
